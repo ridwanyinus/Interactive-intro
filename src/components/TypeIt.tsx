@@ -13,11 +13,11 @@ const TypeItComponent = () => {
         }}
         getBeforeInit={(instance) => {
           instance
-            .type('<h1>Loading repositories...</h1>', { delay: 100 })
+            .type('<h1>Loading repositories...</h1>', { delay: 500 })
             .delete(25, { deleteSpeed: 70 })
-            .type('<h1>> Initializing skills.ts</h1>', { delay: 100 })
+            .type('<h1>> Initializing skills.ts</h1>', { delay: 500 })
             .delete(23, { deleteSpeed: 70 })
-            .type('<h1> Rendering projects.json</h1>', { delay: 100 })
+            .type('<h1> Rendering projects.json</h1>', { delay: 500 })
             .delete(25, { deleteSpeed: 50 })
             .pause(100)
             .type('<span class="emoji" style="font-size: 1.5em;">👋</span>', { html: true })

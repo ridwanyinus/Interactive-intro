@@ -39,13 +39,8 @@ span {
 }
 
 h1 {
-  background: linear-gradient(90deg, #202020, #404040);
-  color: #202020;
   display: inline;
   margin-left: 10px;
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 
 a {

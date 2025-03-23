@@ -20,7 +20,7 @@ const Profile = () => {
     console.log(container);
   };
 
-  const options = particlesConfig as unknown as ISourceOptions; //check more on this
+  const options = particlesConfig as unknown as ISourceOptions;
 
   if (init) {
     return <Particles id='tsparticles' particlesLoaded={particlesLoaded} options={options} />;

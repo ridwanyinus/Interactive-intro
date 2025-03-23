@@ -37,7 +37,6 @@ const TypeItComponent = () => {
             .type('https://')
             .move(null, { to: 'END' })
             .pause(500)
-            .delete(null, { deleteSpeed: 10 })
             .go();
           return instance;
         }}

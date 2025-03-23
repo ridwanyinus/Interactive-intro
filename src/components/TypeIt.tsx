@@ -5,10 +5,10 @@ const TypeItComponent = () => {
     <div className='type-it'>
       <TypeIt
         options={{
-          speed: 75,
+          speed: 100,
           lifeLike: true,
           cursor: true,
-          cursorSpeed: 700,
+          cursorSpeed: 300,
           loop: true,
         }}
         getBeforeInit={(instance) => {

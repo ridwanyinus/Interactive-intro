@@ -7,9 +7,6 @@
   <a href="https://github.com/ridwanyinus/Interactive-intro/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/ridwanyinus/Interactive-intro/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/ridwanyinus/Interactive-intro" />
-  </a>
 </p>
 
 > An elegant, interactive profile introduction featuring animated particle backgrounds with particles.js and dynamic typing effects via typeit.js. Perfect for GitHub profiles, portfolios, or landing pages.
@@ -40,11 +37,6 @@ npm dev
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-## 📝 License
-
-Copyright © 2025 [ridwan](https://github.com/ridwanyinus).<br />
-This project is [MIT](https://github.com/ridwanyinus/Interactive-intro/blob/master/LICENSE) licensed.
 
 ---
 

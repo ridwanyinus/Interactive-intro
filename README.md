@@ -13,7 +13,10 @@
 
 ### 🏠 [Homepage](https://interactive-intro.vercel.app)
 
-### ✨ [![Demo](thumbnail.png)](https://streamable.com/4j3l4c)
+### ✨ [![Demo]](https://streamable.com/4j3l4c)
+
+[![Thumbnail](thumbnail.png)](https://streamable.com/4j3l4c)
+_Click the image to watch._
 
 ## Install
 
